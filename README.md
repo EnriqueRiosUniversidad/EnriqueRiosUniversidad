@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EnriqueRiosUniversidad
+- 👋 Hi, I’m @EnriqueRiosUniversidad --> Enrique Emmanuel Rios Chyrnia
 - 👀 I’m interested in destok programming, theaching and make content for internet
 - 
 - 🌱 I’m currently learning C. python and SQL 
