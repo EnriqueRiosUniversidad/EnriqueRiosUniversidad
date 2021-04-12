@@ -1,10 +1,13 @@
 - 👋 Hi, I’m @EnriqueRiosUniversidad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in destok programming, theaching and make content for internet
+- 
+- 🌱 I’m currently learning C. python and SQL 
+-     I am also studying soft skills, effective communication with colleagues and strategies to carry out software projects 
+-     
+- 
+- 💌 How to reach me 
+- 📩🟢e-mail: www.enririos@gmail.com
+- 🎭💛Instagram: enri_rios_chyrnia
+- 🧑🏻💙linkedin: https://www.linkedin.com/in/enrique-rios4/
+- 💻🔴Youtube: Enrique Rios https://www.youtube.com/channel/UC0bbxrEBF_xdGA9Vi-kzRNQ
 
-<!---
-EnriqueRiosUniversidad/EnriqueRiosUniversidad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
